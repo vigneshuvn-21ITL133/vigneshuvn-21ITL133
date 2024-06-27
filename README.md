@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vigneshu vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshu vn" height="30" width="40" /></a>
-<a href="https://instagram.com/vicky_170402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vicky_170402" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3349y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3349y" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vigneshu-v-n-381959298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshu vn" height="30" width="40" /></a>
+
+  <a href="https://leetcode.com/u/user3349cy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3349y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
